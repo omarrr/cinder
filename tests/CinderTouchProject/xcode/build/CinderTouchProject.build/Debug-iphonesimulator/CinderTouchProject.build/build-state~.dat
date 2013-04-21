@@ -1,0 +1,247 @@
+TCinderTouchProject
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app/Info.plist CinderTouchProject-Info.plist
+cCpResource ../assets ./build/Debug-iphonesimulator/CinderTouchProject.app/assets
+cCpResource Icon.png ./build/Debug-iphonesimulator/CinderTouchProject.app/Icon.png
+cProcessPCH++ /var/folders/c0/y42xbv6x77ncl8r50f0sxp400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CinderTouchProject_Prefix-efbraipjctcxacbjelxkczycjhwd/CinderTouchProject_Prefix.pch.pth CinderTouchProject_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/CinderTouchProject.build/Debug-iphonesimulator/CinderTouchProject.build/Objects-normal/i386/CinderTouchProjectApp.o /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/../src/CinderTouchProjectApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app/CinderTouchProject normal i386
+cGenerateDSYMFile /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app.dSYM /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app/CinderTouchProject
+cTouch /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c0000000050B252CD00000000001EAFC0
+t1353863885
+s2011072
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000050B252CD00000000003D2B80
+t1353863885
+s4008832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000050B252CE0000000000228FD0
+t1353863886
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c0000000050B252CE0000000000085620
+t1353863886
+s546336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000050B252CE00000000000F62E0
+t1353863886
+s1008352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000050B252CE0000000000020F20
+t1353863886
+s134944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000050B252D000000000003DCEF0
+t1353863888
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000050B252CF00000000000015F7
+t1353863887
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000050B252D30000000000015400
+t1353863891
+s87040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000050B252D300000000001D57A0
+t1353863891
+s1922976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000050B252D40000000000000E8D
+t1353863892
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000050B252D60000000000AB3D60
+t1353863894
+s11222368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c0000000050B252E90000000000001B54
+t1353863913
+s6996
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/lib/libz.dylib
+c0000000050B252EA0000000000013500
+t1353863914
+s79104
+
+N/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/../assets
+c0000000050BBD6F50000000000000044
+t1354487541
+s68
+
+N/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/../src/CinderTouchProjectApp.cpp
+c0000000050BBD6F50000000000000650
+t1354487541
+s1616
+
+N/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/CinderTouchProject.build/Debug-iphonesimulator/CinderTouchProject.build/Objects-normal/i386/CinderTouchProject.LinkFileList
+c0000000050BBD72500000000000000B7
+t1354487589
+s183
+
+N/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/CinderTouchProject.build/Debug-iphonesimulator/CinderTouchProject.build/Objects-normal/i386/CinderTouchProjectApp.o
+t2
+s0
+
+N/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app
+t2
+s0
+
+N/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app.dSYM
+t2
+s0
+
+N/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app/CinderTouchProject
+t2
+s0
+
+N/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app/Icon.png
+t2
+s0
+
+N/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app/Info.plist
+t2
+s0
+
+N/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app/PkgInfo
+t2
+s0
+
+N/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app/assets
+t2
+s0
+
+N/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/CinderTouchProject_Prefix.pch
+c0000000050BBD6F50000000000000142
+t1354487541
+s322
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/Icon.png
+c0000000050BBD6F50000000000003216
+t1354487541
+s12822
+
+N/var/folders/c0/y42xbv6x77ncl8r50f0sxp400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CinderTouchProject_Prefix-efbraipjctcxacbjelxkczycjhwd/CinderTouchProject_Prefix.pch.pth
+t2
+s0
+
+NCinderTouchProject-Info.plist
+c0000000050BBD6F500000000000003D7
+t1354487541
+s983
+
+CBuild AST from /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/../src/CinderTouchProjectApp.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciescbf6a1a50e6cb641^9069b9a50e6cb641^---0#1#0#--18"Check dependencies36"5AC9954C-737A-4648-98F6-078FF9302618-
+
+CCompileC ./build/CinderTouchProject.build/Debug-iphonesimulator/CinderTouchProject.build/Objects-normal/i386/CinderTouchProjectApp.o /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/../src/CinderTouchProjectApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s376180389.891412
+e376180392.416821
+r1
+xCompileC
+x./build/CinderTouchProject.build/Debug-iphonesimulator/CinderTouchProject.build/Objects-normal/i386/CinderTouchProjectApp.o
+x/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/../src/CinderTouchProjectApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/../src/CinderTouchProjectApp.cpp795ce4a50e6cb641^35b76aa80e6cb641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/../src/CinderTouchProjectApp.cpp0000000000000000^3610"CompileC ./build/CinderTouchProject.build/Debug-iphonesimulator/CinderTouchProject.build/Objects-normal/i386/CinderTouchProjectApp.o ../src/CinderTouchProjectApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -mios-simulator-version-min=3.2 -iquote /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/CinderTouchProject.build/Debug-iphonesimulator/CinderTouchProject.build/CinderTouchProject-generated-files.hmap -I/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/CinderTouchProject.build/Debug-iphonesimulator/CinderTouchProject.build/CinderTouchProject-own-target-headers.hmap -I/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/CinderTouchProject.build/Debug-iphonesimulator/CinderTouchProject.build/CinderTouchProject-all-target-headers.hmap -iquote /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/CinderTouchProject.build/Debug-iphonesimulator/CinderTouchProject.build/CinderTouchProject-project-headers.hmap -iquote../../../cinder/include -iquoteinclude -I/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/build/Debug-iphonesimulator/include -I../../../cinder/boost -I/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/CinderTouchProject.build/Debug-iphonesimulator/CinderTouchProject.build/DerivedSources/i386 -I/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/CinderTouchProject.build/Debug-iphonesimulator/CinderTouchProject.build/DerivedSources -F/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/build/Debug-iphonesimulator -include /var/folders/c0/y42xbv6x77ncl8r50f0sxp400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CinderTouchProject_Prefix-efbraipjctcxacbjelxkczycjhwd/CinderTouchProject_Prefix.pch -MMD -MT dependencies -MF /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/CinderTouchProject.build/Debug-iphonesimulator/CinderTouchProject.build/Objects-normal/i386/CinderTouchProjectApp.d --serialize-diagnostics /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/CinderTouchProject.build/Debug-iphonesimulator/CinderTouchProject.build/Objects-normal/i386/CinderTouchProjectApp.dia -c /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/../src/CinderTouchProjectApp.cpp -o /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/CinderTouchProject.build/Debug-iphonesimulator/CinderTouchProject.build/Objects-normal/i386/CinderTouchProjectApp.o36"A93DAA29-8100-4880-A40A-A85EBD1816D7-
+
+CCpResource ../assets ./build/Debug-iphonesimulator/CinderTouchProject.app/assets
+s376180389.740583
+e376180389.746789
+r1
+xCpResource
+x../assets
+x./build/Debug-iphonesimulator/CinderTouchProject.app/assets
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy ./build/Debug-iphonesimulator/CinderTouchProject.app/assets5e2abea50e6cb641^272ebfa50e6cb641^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app/assets000000000080d041^635"CpResource ../assets ./build/Debug-iphonesimulator/CinderTouchProject.app/assets    cd /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/../assets /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app36"9A1C465D-5FB5-424B-978C-C6294FC484F5-
+
+CCpResource Icon.png ./build/Debug-iphonesimulator/CinderTouchProject.app/Icon.png
+s376180389.740589
+e376180389.746216
+r1
+xCpResource
+xIcon.png
+x./build/Debug-iphonesimulator/CinderTouchProject.app/Icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy ./build/Debug-iphonesimulator/CinderTouchProject.app/Icon.png8429bea50e6cb641^ab08bfa50e6cb641^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app/Icon.png000000000080d041^635"CpResource Icon.png ./build/Debug-iphonesimulator/CinderTouchProject.app/Icon.png    cd /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/Icon.png /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app36"071974A5-52D8-4BEB-BF0D-2F6BC10B604D-
+
+CGenerateDSYMFile /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app.dSYM /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app/CinderTouchProject
+s376180393.109303
+e376180393.279783
+r1
+xGenerateDSYMFile
+x/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app.dSYM
+x/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app/CinderTouchProject
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Generating /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app.dSYMb20d1ca90e6cb641^fd9f47a90e6cb641^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app.dSYM000000000080d041^759"GenerateDSYMFile ./build/Debug-iphonesimulator/CinderTouchProject.app.dSYM ./build/Debug-iphonesimulator/CinderTouchProject.app/CinderTouchProject    cd /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app/CinderTouchProject -o /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app.dSYM36"DC8F3491-2ECC-4C17-AA82-FFA310FF6996-
+
+CLd /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app/CinderTouchProject normal i386
+s376180392.423920
+e376180393.102453
+r1
+xLd
+x/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app/CinderTouchProject
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Link /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app/CinderTouchProject48a56ca80e6cb641^153b1aa90e6cb641^---0#0#0#--1517"Ld ./build/Debug-iphonesimulator/CinderTouchProject.app/CinderTouchProject normal i386    cd /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/build/Debug-iphonesimulator -F/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/build/Debug-iphonesimulator -filelist /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/CinderTouchProject.build/Debug-iphonesimulator/CinderTouchProject.build/Objects-normal/i386/CinderTouchProject.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 ../../../cinder/lib/libcinder-iphone-sim_d.a -Xlinker -no_implicit_dylibs -mios-simulator-version-min=3.2 -lz -framework CoreText -framework AudioToolbox -weak_framework AVFoundation -weak_framework CoreMedia -framework Foundation -framework UIKit -framework OpenGLES -framework QuartzCore -framework CoreGraphics -weak_framework CoreVideo -o /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app/CinderTouchProject36"08C1F3C9-3D62-46AF-93D4-B79659C7DA94-
+
+CProcessInfoPlistFile /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app/Info.plist CinderTouchProject-Info.plist
+s376180389.729211
+e376180389.732964
+r1
+xProcessInfoPlistFile
+x/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app/Info.plist
+xCinderTouchProject-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Process CinderTouchProject-Info.plist34bfbaa50e6cb641^f0fbbba50e6cb641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/CinderTouchProject-Info.plist0000000000000000^755"ProcessInfoPlistFile ./build/Debug-iphonesimulator/CinderTouchProject.app/Info.plist CinderTouchProject-Info.plist    cd /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CinderTouchProject-Info.plist -genpkginfo /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app/Info.plist36"EBE164AE-9D39-4431-8F9E-5D0247941B4A-
+
+CProcessPCH++ /Users/omarrr/Library/Developer/Xcode/DerivedData/CinderTouchProject-cicatinwzkdedmfequhmwngxpdpk/Index/PrecompiledHeaders/CinderTouchProject_Prefix-dvdudtinzthwnkdajolwjtavkvax_ast/CinderTouchProject_Prefix.pch.pth CinderTouchProject_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/c0/y42xbv6x77ncl8r50f0sxp400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CinderTouchProject_Prefix-efbraipjctcxacbjelxkczycjhwd/CinderTouchProject_Prefix.pch.pth CinderTouchProject_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s376180389.755099
+e376180389.885110
+r1
+xProcessPCH++
+x/var/folders/c0/y42xbv6x77ncl8r50f0sxp400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CinderTouchProject_Prefix-efbraipjctcxacbjelxkczycjhwd/CinderTouchProject_Prefix.pch.pth
+xCinderTouchProject_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Precompile CinderTouchProject_Prefix.pchfd6bc1a50e6cb641^4f96e2a50e6cb641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/CinderTouchProject_Prefix.pch0000000000000000^3482"ProcessPCH++ /var/folders/c0/y42xbv6x77ncl8r50f0sxp400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CinderTouchProject_Prefix-efbraipjctcxacbjelxkczycjhwd/CinderTouchProject_Prefix.pch.pth CinderTouchProject_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -mios-simulator-version-min=3.2 -iquote /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/CinderTouchProject.build/Debug-iphonesimulator/CinderTouchProject.build/CinderTouchProject-generated-files.hmap -I/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/CinderTouchProject.build/Debug-iphonesimulator/CinderTouchProject.build/CinderTouchProject-own-target-headers.hmap -I/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/CinderTouchProject.build/Debug-iphonesimulator/CinderTouchProject.build/CinderTouchProject-all-target-headers.hmap -iquote /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/CinderTouchProject.build/Debug-iphonesimulator/CinderTouchProject.build/CinderTouchProject-project-headers.hmap -iquote../../../cinder/include -iquoteinclude -I/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/build/Debug-iphonesimulator/include -I../../../cinder/boost -I/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/CinderTouchProject.build/Debug-iphonesimulator/CinderTouchProject.build/DerivedSources/i386 -I/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/CinderTouchProject.build/Debug-iphonesimulator/CinderTouchProject.build/DerivedSources -F/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/c0/y42xbv6x77ncl8r50f0sxp400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CinderTouchProject_Prefix-efbraipjctcxacbjelxkczycjhwd/CinderTouchProject_Prefix.pch.dia -c /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/CinderTouchProject_Prefix.pch -o /var/folders/c0/y42xbv6x77ncl8r50f0sxp400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CinderTouchProject_Prefix-efbraipjctcxacbjelxkczycjhwd/CinderTouchProject_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/c0/y42xbv6x77ncl8r50f0sxp400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CinderTouchProject_Prefix-efbraipjctcxacbjelxkczycjhwd/CinderTouchProject_Prefix.pch.d36"9748EBBA-C011-4F29-8BFE-A4C36EDA0D99-
+
+CTouch /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app
+s376180393.287997
+e376180393.297838
+r1
+xTouch
+x/Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Touch /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app47cb49a90e6cb641^8e404ca90e6cb641^---0#0#0#--454"Touch ./build/Debug-iphonesimulator/CinderTouchProject.app    cd /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/omarrr/Documents/code/misc/CinderTouchProject/xcode/./build/Debug-iphonesimulator/CinderTouchProject.app36"C6094677-6522-4E53-B1FC-7CD52BE4961B-
+
