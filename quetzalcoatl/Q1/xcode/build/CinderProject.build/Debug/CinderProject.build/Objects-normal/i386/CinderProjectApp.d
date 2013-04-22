@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/omarrr/Documents/code/cinder/quetzalcoatl/Q1/xcode/../src/CinderProjectApp.cpp \
+  /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/../src/CinderProjectApp.cpp \
   ../../../cinder\ 0.8.4/include/cinder/app/AppBasic.h \
   ../../../cinder\ 0.8.4/include/cinder/app/App.h \
   ../../../cinder\ 0.8.4/include/cinder/Cinder.h \

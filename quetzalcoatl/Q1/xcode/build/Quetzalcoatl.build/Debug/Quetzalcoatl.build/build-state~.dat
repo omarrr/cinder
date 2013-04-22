@@ -1,0 +1,216 @@
+TQuetzalcoatl
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Debug/Quetzalcoatl.app/Contents/Info.plist Info.plist
+cCpResource CinderApp.icns ./build/Debug/Quetzalcoatl.app/Contents/Resources/CinderApp.icns
+cCpResource ../resources/image.png ./build/Debug/Quetzalcoatl.app/Contents/Resources/image.png
+cProcessPCH++ /var/folders/c0/y42xbv6x77ncl8r50f0sxp400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Quetzalcoatl_Prefix-genexzzzfygmigcngjlauiivslzj/Quetzalcoatl_Prefix.pch.pth Quetzalcoatl_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/Quetzalcoatl.build/Debug/Quetzalcoatl.build/Objects-normal/i386/CinderProjectApp.o /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/../src/CinderProjectApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Debug/Quetzalcoatl.app/Contents/MacOS/Quetzalcoatl normal i386
+cTouch /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Debug/Quetzalcoatl.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c0000000050B252F700000000000024F0
+t1353863927
+s9456
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000050B252F70000000000024D90
+t1353863927
+s150928
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c0000000050B252F700000000000060B4
+t1353863927
+s24756
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000050B252F700000000000001E5
+t1353863927
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c0000000050B252F7000000000000E920
+t1353863927
+s59680
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c0000000050B263D300000000000069F0
+t1353868243
+s27120
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000050B263D40000000000006730
+t1353868244
+s26416
+
+N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000050B263D90000000000081CB0
+t1353868249
+s531632
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c0000000050B263E9000000000002DAF0
+t1353868265
+s187120
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c0000000050B263EF00000000004A2D90
+t1353868271
+s4861328
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c0000000050B2659B0000000000322E20
+t1353868699
+s3288608
+
+N/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/../resources/image.png
+c000000004F80CABE00000000000B11FF
+t1333840574
+s725503
+
+N/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/../src/CinderProjectApp.cpp
+c000000005173BEA200000000000014F2
+t1366539938
+s5362
+
+N/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Debug/Quetzalcoatl.app
+t2
+s0
+
+N/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Debug/Quetzalcoatl.app/Contents/Info.plist
+t2
+s0
+
+N/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Debug/Quetzalcoatl.app/Contents/MacOS/Quetzalcoatl
+t2
+s0
+
+N/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Debug/Quetzalcoatl.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Debug/Quetzalcoatl.app/Contents/Resources/CinderApp.icns
+t2
+s0
+
+N/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Debug/Quetzalcoatl.app/Contents/Resources/image.png
+t2
+s0
+
+N/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Quetzalcoatl.build/Debug/Quetzalcoatl.build/Objects-normal/i386/CinderProjectApp.o
+t2
+s0
+
+N/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Quetzalcoatl.build/Debug/Quetzalcoatl.build/Objects-normal/i386/Quetzalcoatl.LinkFileList
+c0000000051741C670000000000000099
+t1366563943
+s153
+
+N/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/CinderApp.icns
+c0000000050BAFF8C000000000001BEB5
+t1354432396
+s114357
+
+N/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/Quetzalcoatl_Prefix.pch
+c0000000050BAFF8C0000000000000093
+t1354432396
+s147
+i<Cocoa/Cocoa.h>
+
+N/var/folders/c0/y42xbv6x77ncl8r50f0sxp400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Quetzalcoatl_Prefix-genexzzzfygmigcngjlauiivslzj/Quetzalcoatl_Prefix.pch.pth
+t2
+s0
+
+NInfo.plist
+c0000000051741C520000000000000353
+t1366563922
+s851
+
+CBuild AST from /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/../src/CinderProjectApp.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies47202ee75324b741^04003fe75324b741^---0#1#0#--18"Check dependencies36"210C246F-E5D3-412D-B462-7DBD800A37CD-
+
+CCompileC ./build/Quetzalcoatl.build/Debug/Quetzalcoatl.build/Objects-normal/i386/CinderProjectApp.o /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/../src/CinderProjectApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388256743.303842
+e388256746.259055
+r1
+xCompileC
+x./build/Quetzalcoatl.build/Debug/Quetzalcoatl.build/Objects-normal/i386/CinderProjectApp.o
+x/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/../src/CinderProjectApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/../src/CinderProjectApp.cppf7e44de75324b741^eb5342ea5324b741^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/../src/CinderProjectApp.cpp0000000000000000^3051"CompileC ./build/Quetzalcoatl.build/Debug/Quetzalcoatl.build/Objects-normal/i386/CinderProjectApp.o ../src/CinderProjectApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Quetzalcoatl.build/Debug/Quetzalcoatl.build/Quetzalcoatl-generated-files.hmap -I/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Quetzalcoatl.build/Debug/Quetzalcoatl.build/Quetzalcoatl-own-target-headers.hmap -I/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Quetzalcoatl.build/Debug/Quetzalcoatl.build/Quetzalcoatl-all-target-headers.hmap -iquote /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Quetzalcoatl.build/Debug/Quetzalcoatl.build/Quetzalcoatl-project-headers.hmap "-iquote../../../cinder 0.8.4/include" -iquote../include -I/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/build/Debug/include "-I../../../cinder 0.8.4/boost" -I/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Quetzalcoatl.build/Debug/Quetzalcoatl.build/DerivedSources/i386 -I/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Quetzalcoatl.build/Debug/Quetzalcoatl.build/DerivedSources -F/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/build/Debug -include /var/folders/c0/y42xbv6x77ncl8r50f0sxp400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Quetzalcoatl_Prefix-genexzzzfygmigcngjlauiivslzj/Quetzalcoatl_Prefix.pch -MMD -MT dependencies -MF /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Quetzalcoatl.build/Debug/Quetzalcoatl.build/Objects-normal/i386/CinderProjectApp.d --serialize-diagnostics /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Quetzalcoatl.build/Debug/Quetzalcoatl.build/Objects-normal/i386/CinderProjectApp.dia -c /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/../src/CinderProjectApp.cpp -o /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Quetzalcoatl.build/Debug/Quetzalcoatl.build/Objects-normal/i386/CinderProjectApp.o36"09F5B903-96C6-496B-A67C-DE6D37E6E7FB-
+
+CCpResource ../resources/image.png ./build/Debug/Quetzalcoatl.app/Contents/Resources/image.png
+s388256743.262331
+e388256743.270977
+r1
+xCpResource
+x../resources/image.png
+x./build/Debug/Quetzalcoatl.app/Contents/Resources/image.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy ./build/Debug/Quetzalcoatl.app/Contents/Resources/image.png585543e75324b741^785f45e75324b741^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Debug/Quetzalcoatl.app/Contents/Resources/image.png000000000080d041^472"CpResource ../resources/image.png ./build/Debug/Quetzalcoatl.app/Contents/Resources/image.png    cd /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/../resources/image.png /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Debug/Quetzalcoatl.app/Contents/Resources36"44D6C8D4-0F12-4A58-A61F-180EEF230E55-
+
+CCpResource CinderApp.icns ./build/Debug/Quetzalcoatl.app/Contents/Resources/CinderApp.icns
+s388256743.262323
+e388256743.265665
+r1
+xCpResource
+xCinderApp.icns
+x./build/Debug/Quetzalcoatl.app/Contents/Resources/CinderApp.icns
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy ./build/Debug/Quetzalcoatl.app/Contents/Resources/CinderApp.icns6d5443e75324b741^a20d44e75324b741^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Debug/Quetzalcoatl.app/Contents/Resources/CinderApp.icns000000000080d041^461"CpResource CinderApp.icns ./build/Debug/Quetzalcoatl.app/Contents/Resources/CinderApp.icns    cd /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/CinderApp.icns /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Debug/Quetzalcoatl.app/Contents/Resources36"CB4684D6-E6F6-45AD-A532-79D1BB62069E-
+
+CLd /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Debug/Quetzalcoatl.app/Contents/MacOS/Quetzalcoatl normal i386
+s388256746.265707
+e388256746.984216
+r1
+xLd
+x/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Debug/Quetzalcoatl.app/Contents/MacOS/Quetzalcoatl
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Link /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Debug/Quetzalcoatl.app/Contents/MacOS/Quetzalcoatlbd1a44ea5324b741^d3f6fbea5324b741^---0#0#0#--1124"Ld ./build/Debug/Quetzalcoatl.app/Contents/MacOS/Quetzalcoatl normal i386    cd /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/build/Debug -F/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/build/Debug -filelist /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Quetzalcoatl.build/Debug/Quetzalcoatl.build/Objects-normal/i386/Quetzalcoatl.LinkFileList -mmacosx-version-min=10.7 "../../../cinder 0.8.4/lib/libcinder_d.a" -lcurl -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Debug/Quetzalcoatl.app/Contents/MacOS/Quetzalcoatl36"32655139-EDE9-42BA-B218-64C629B646C9-
+
+CProcessInfoPlistFile /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Debug/Quetzalcoatl.app/Contents/Info.plist Info.plist
+s388256743.250523
+e388256743.254081
+r1
+xProcessInfoPlistFile
+x/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Debug/Quetzalcoatl.app/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plistf73b40e75324b741^183f41e75324b741^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/Info.plist0000000000000000^468"ProcessInfoPlistFile ./build/Debug/Quetzalcoatl.app/Contents/Info.plist Info.plist    cd /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode    builtin-infoPlistUtility Info.plist -genpkginfo /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Debug/Quetzalcoatl.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Debug/Quetzalcoatl.app/Contents/Info.plist36"3325C0F7-0952-49E4-803F-546064D68B80-
+
+CProcessPCH++ /Users/omarrr/Library/Developer/Xcode/DerivedData/Quetzalcoatl-bgkeiwshisnikngjiikhacyweuza/Index/PrecompiledHeaders/Quetzalcoatl_Prefix-aelkplbweizcgfblqacmkfeipjoo_ast/Quetzalcoatl_Prefix.pch.pth Quetzalcoatl_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/c0/y42xbv6x77ncl8r50f0sxp400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Quetzalcoatl_Prefix-genexzzzfygmigcngjlauiivslzj/Quetzalcoatl_Prefix.pch.pth Quetzalcoatl_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s388256743.278732
+e388256743.296940
+r1
+xProcessPCH++
+x/var/folders/c0/y42xbv6x77ncl8r50f0sxp400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Quetzalcoatl_Prefix-genexzzzfygmigcngjlauiivslzj/Quetzalcoatl_Prefix.pch.pth
+xQuetzalcoatl_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Precompile Quetzalcoatl_Prefix.pchfb7547e75324b741^1d054ce75324b741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/Quetzalcoatl_Prefix.pch0000000000000000^3008"ProcessPCH++ /var/folders/c0/y42xbv6x77ncl8r50f0sxp400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Quetzalcoatl_Prefix-genexzzzfygmigcngjlauiivslzj/Quetzalcoatl_Prefix.pch.pth Quetzalcoatl_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -Wno-sign-conversion -iquote /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Quetzalcoatl.build/Debug/Quetzalcoatl.build/Quetzalcoatl-generated-files.hmap -I/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Quetzalcoatl.build/Debug/Quetzalcoatl.build/Quetzalcoatl-own-target-headers.hmap -I/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Quetzalcoatl.build/Debug/Quetzalcoatl.build/Quetzalcoatl-all-target-headers.hmap -iquote /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Quetzalcoatl.build/Debug/Quetzalcoatl.build/Quetzalcoatl-project-headers.hmap "-iquote../../../cinder 0.8.4/include" -iquote../include -I/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/build/Debug/include "-I../../../cinder 0.8.4/boost" -I/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Quetzalcoatl.build/Debug/Quetzalcoatl.build/DerivedSources/i386 -I/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Quetzalcoatl.build/Debug/Quetzalcoatl.build/DerivedSources -F/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/build/Debug --serialize-diagnostics /var/folders/c0/y42xbv6x77ncl8r50f0sxp400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Quetzalcoatl_Prefix-genexzzzfygmigcngjlauiivslzj/Quetzalcoatl_Prefix.pch.dia -c /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/Quetzalcoatl_Prefix.pch -o /var/folders/c0/y42xbv6x77ncl8r50f0sxp400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Quetzalcoatl_Prefix-genexzzzfygmigcngjlauiivslzj/Quetzalcoatl_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/c0/y42xbv6x77ncl8r50f0sxp400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Quetzalcoatl_Prefix-genexzzzfygmigcngjlauiivslzj/Quetzalcoatl_Prefix.pch.d36"9CC9D12E-6793-457E-A448-3FF5A6E8702D-
+
+CTouch /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Debug/Quetzalcoatl.app
+s388256746.992701
+e388256746.999214
+r1
+xTouch
+x/Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Debug/Quetzalcoatl.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Touch /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Debug/Quetzalcoatl.appa930feea5324b741^57cdffea5324b741^---0#0#0#--221"Touch ./build/Debug/Quetzalcoatl.app    cd /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode    /usr/bin/touch -c /Users/omarrr/Documents/code/git/cinder/quetzalcoatl/Q1/xcode/./build/Debug/Quetzalcoatl.app36"1A606CE9-DD97-47FA-96D6-A2BC516BCA85-
+
